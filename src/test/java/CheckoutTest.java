@@ -63,9 +63,9 @@ public class CheckoutTest {
         searchForItem.addToCart("Best Grilling Recipes");
 
         new WebDriverWait(driver, 10).until(
-                ExpectedConditions.presenceOfElementLocated(By.cssSelector("div.bar-notification.success p")));
+                ExpectedConditions.presenceOfElementLocated(searchForItem.ADDTOCARTSUCCESS_MESSAGE));
 
-        assertThat("Product has been added to cart Confirmation", driver.findElement(By.cssSelector("div.bar-notification.success p")).getText(), containsString("The product has been added to your shopping cart"));
+        assertThat("Product has been added to cart Confirmation", searchForItem.getAddToCartResultMessage(), containsString("The product has been added to your shopping cart"));
 
         // Navigate to shopping cart and checkout
         Header header = new Header(driver);
@@ -130,8 +130,8 @@ public class CheckoutTest {
 
         // Order Completed
         new WebDriverWait(driver, 10).until(
-                ExpectedConditions.presenceOfElementLocated(By.cssSelector("div[class='section order-completed']")));
-        assertThat("Order has been successfully processed", driver.findElement(By.cssSelector("div[class='section order-completed']")).getText(), containsString("Your order has been successfully processed!"));
+                ExpectedConditions.presenceOfElementLocated(orderConfirmation.COMPLETED_MESSAGE));
+        assertThat("Order has been successfully processed", orderConfirmation.getCompletedMessageText(), containsString("Your order has been successfully processed!"));
     }
     @AfterClass
     public static void closeSelenium(){

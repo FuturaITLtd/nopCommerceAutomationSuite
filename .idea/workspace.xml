@@ -1,84 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3506bf43-e29d-49bf-96ab-20c767076f55" name="Default" comment="Commit - Initial framework with end to end checkout scenario">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/firebug-1.12.7-fx.xpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/firepath-0.9.7-fx.xpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Andy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/BillingAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/navigation/CategoryTopMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/navigation/CategoryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CheckoutTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/header/Header.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/HeaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/login/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_40_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/helper/Misc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/OrderCompleted.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/PageObjectTemplate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/PaymentInformation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/register/Register.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/RegisterUserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/register/RegistrationConfirmation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/SearchTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShippingAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShippingMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShoppingCart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/helper/isLoaded.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopCommerceAutomationSuite.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="3506bf43-e29d-49bf-96ab-20c767076f55" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CheckoutTest.java" afterPath="$PROJECT_DIR$/src/test/java/CheckoutTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java" afterPath="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nopCommerceAutomationSuite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -166,34 +93,16 @@
       <file leaf-file-name="CheckoutTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CheckoutTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="54" selection-start="4376" selection-end="4392" vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="2482">
+            <state line="130" column="19" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.0" vertical-offset="1588" max-vertical-offset="2159">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderCompleted.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/OrderCompleted.java">
+      <file leaf-file-name="ConfirmOrder.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SearchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CategoryTree.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/navigation/CategoryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.15699208" vertical-offset="0" max-vertical-offset="758">
+            <state line="46" column="41" selection-start="1292" selection-end="1315" vertical-scroll-proportion="0.8232848" vertical-offset="318" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -202,7 +111,27 @@
       <file leaf-file-name="Search.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="8" selection-start="738" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+            <state line="80" column="43" selection-start="2578" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="834" max-vertical-offset="1411">
+              <folding>
+                <element signature="e#1049#1057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeaderTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HeaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterUserTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="7" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="696" max-vertical-offset="1343">
               <folding />
             </state>
           </provider>
@@ -239,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/SearchResults.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/SearchResults.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/header/Header.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java" />
         <option value="$PROJECT_DIR$/src/test/java/HeaderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/ShoppingCart.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShoppingCart.java" />
@@ -250,10 +178,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShippingAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/PaymentInformation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/PageObjectTemplate.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CheckoutTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/OrderCompleted.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CheckoutTest.java" />
       </list>
     </option>
   </component>
@@ -296,7 +225,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -386,6 +314,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pageobjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nopCommerceAutomationSuite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nopCommerceAutomationSuite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdriver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pageobjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -524,6 +486,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -553,6 +516,22 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="64" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="64" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="64" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="620" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="65" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="56" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="61" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="630" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -560,34 +539,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.CheckoutTest.guestCheckoutTest">
-    <configuration default="false" name="HeaderTest.keywordSearchAndAddItemToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nopCommerceAutomationSuite" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HeaderTest" />
-      <option name="METHOD_NAME" value="keywordSearchAndAddItemToCart" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceAutomationSuite" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -688,6 +639,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="CheckoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nopCommerceAutomationSuite" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -722,19 +695,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -760,6 +720,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -816,19 +789,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.HeaderTest.keywordSearchAndAddItemToCart" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SearchTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SearchTest.keywordSearchAndAddItemToCart" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CheckoutTest.guestCheckoutTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.RegisterUserTest.registerUser" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SearchTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SearchTest.keywordSearchAndAddItemToCart" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CheckoutTest.guestCheckoutTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RegisterUserTest.registerUser" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CheckoutTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.CheckoutTest.guestCheckoutTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RegisterUserTest.registerUser" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SearchTest.keywordSearchAndAddItemToCart" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SearchTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.HeaderTest.keywordSearchAndAddItemToCart" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CheckoutTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RegisterUserTest.registerUser" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SearchTest.keywordSearchAndAddItemToCart" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SearchTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -860,6 +833,11 @@
       <created>1394729083958</created>
       <updated>1394729083958</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit - Initial framework with end to end checkout scenario">
+      <created>1397502720284</created>
+      <updated>1397502720284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -872,23 +850,23 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39943874" sideWeight="0.7921875" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21912351" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940238" sideWeight="0.7918149" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4950199" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21912351" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968128" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21912351" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2508897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4950199" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4950199" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3281768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1034,9 +1012,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/header/Header.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="855" selection-end="906" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1003">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="855" selection-end="906" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1003" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/register/RegistrationConfirmation.java">
@@ -1086,25 +1062,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="935">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="27" column="10" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="935" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/helper/Misc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
+        <state line="12" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/login/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="884">
-          <folding />
-        </state>
+        <state line="8" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.40.0/selenium-remote-driver-2.40.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
@@ -1124,9 +1092,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/helper/isLoaded.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3318584" vertical-offset="71" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.3318584" vertical-offset="71" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/register/Register.java">
@@ -1138,16 +1104,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShippingAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="20" selection-start="1305" selection-end="1305" vertical-scroll-proportion="0.37696335" vertical-offset="502" max-vertical-offset="884">
-          <folding />
-        </state>
+        <state line="38" column="20" selection-start="1305" selection-end="1305" vertical-scroll-proportion="0.37696335" vertical-offset="502" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ShippingMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="49" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.15445027" vertical-offset="451" max-vertical-offset="833">
-          <folding />
-        </state>
+        <state line="37" column="49" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.15445027" vertical-offset="451" max-vertical-offset="833" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/PaymentInformation.java">
@@ -1168,51 +1130,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/PageObjectTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HeaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="7" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1343">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.38877338" vertical-offset="0" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CheckoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="54" selection-start="4376" selection-end="4392" vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="2482">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="714" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/OrderCompleted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="738" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
-          <folding />
-        </state>
+        <state line="9" column="52" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SearchTest.java">
@@ -1224,7 +1147,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/navigation/CategoryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.15699208" vertical-offset="0" max-vertical-offset="758">
+        <state line="7" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.18392581" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="7" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HeaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/search/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="43" selection-start="2578" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="834" max-vertical-offset="1411">
+          <folding>
+            <element signature="e#1049#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CheckoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="19" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.0" vertical-offset="1588" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/futura/webdriver/nopcommerce/pageobjects/checkout/ConfirmOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="41" selection-start="1292" selection-end="1315" vertical-scroll-proportion="0.8232848" vertical-offset="318" max-vertical-offset="918">
           <folding />
         </state>
       </provider>

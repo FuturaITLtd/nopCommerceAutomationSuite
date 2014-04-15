@@ -15,6 +15,8 @@ public class ConfirmOrder extends SlowLoadableComponent<ConfirmOrder> {
 
     By CONTINUE_BUTTON = By.cssSelector("input[type='button'][value='Confirm'][onclick='ConfirmOrder.save()']");
 
+    public By COMPLETED_MESSAGE = By.cssSelector("div[class='section order-completed']");
+    public String COMPLETEDMESSAGE_TEXT;
 
 
     public ConfirmOrder(WebDriver driver){
@@ -40,5 +42,11 @@ public class ConfirmOrder extends SlowLoadableComponent<ConfirmOrder> {
     public ConfirmOrder clickContinue(){
         driver.findElement(CONTINUE_BUTTON).click();
         return this;
+    }
+
+    public String getCompletedMessageText()
+    {
+        COMPLETEDMESSAGE_TEXT = driver.findElement(COMPLETED_MESSAGE).getText();
+        return COMPLETEDMESSAGE_TEXT;
     }
 }

@@ -21,7 +21,10 @@ public class Search extends SlowLoadableComponent<Search>{
     By SEARCH_BUTTON = By.cssSelector(".button-1.search-box-button");
 
     By SEARCH_RESULT_ITEMS = By.cssSelector("h2.product-title a");
-    ByChained adadada = new ByChained(By.cssSelector("asdasd"), By.id("1231231"));
+    //ByChained adadada = new ByChained(By.cssSelector("asdasd"), By.id("1231231"));
+
+    public By ADDTOCARTSUCCESS_MESSAGE = By.cssSelector("div.bar-notification.success p");
+    public String RESPONSE;
 
     // List of Field Validation messages
     public List<String> SearchResultProductNames = new ArrayList<String>();
@@ -73,5 +76,11 @@ public class Search extends SlowLoadableComponent<Search>{
     public Search addAllItemsToCart()
     {
         return this;
+    }
+
+    public String getAddToCartResultMessage()
+    {
+        RESPONSE = driver.findElement(ADDTOCARTSUCCESS_MESSAGE).getText();
+        return RESPONSE;
     }
 }
